@@ -1,4 +1,4 @@
 M480_Final
 ==========
 
-Repo for my Math 480 final project
+Really not sure to be honest.  Perhaps some sort of comparison between Diffie-Helman and RSA.
